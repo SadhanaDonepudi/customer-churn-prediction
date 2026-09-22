@@ -1,0 +1,19 @@
+0
+num__tenure_months
+num__monthly_charges
+num__total_charges
+num__support_calls
+num__usage_gb
+num__late_payments
+num__senior_citizen
+num__has_dependents
+cat__contract_Month-to-month
+cat__contract_One year
+cat__contract_Two year
+cat__payment_method_Bank transfer
+cat__payment_method_Credit card
+cat__payment_method_Electronic check
+cat__payment_method_Mailed check
+cat__internet_service_DSL
+cat__internet_service_Fiber optic
+cat__internet_service_No

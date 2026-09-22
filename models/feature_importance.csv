@@ -1,0 +1,19 @@
+feature,mean_abs_shap
+monthly charges,0.631122237852522
+tenure months,0.53572462564751
+contract Month-to-month,0.28590414481165727
+contract Two year,0.2230852139955081
+support calls,0.18973102666338298
+late payments,0.17793994629078203
+internet service DSL,0.12840966553222807
+has dependents,0.10620632557523275
+contract One year,0.1039073851502948
+internet service No,0.07162650887241277
+total charges,0.06402676864978286
+payment method Electronic check,0.05308503475277325
+payment method Credit card,0.05023666256732896
+payment method Mailed check,0.034106273225440784
+payment method Bank transfer,0.022024648819081397
+internet service Fiber optic,0.01898786978544483
+usage gb,0.018473479038132463
+senior citizen,0.005334754802544199
